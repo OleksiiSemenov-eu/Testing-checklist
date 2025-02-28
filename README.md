@@ -32,7 +32,7 @@ Project name: **Kapusta Smart Finance**
 1️⃣ Download the `.xlsx` file from this repository.  
 2️⃣ Open it in Excel, Google Sheets, or another spreadsheet tool.  
 3️⃣ Follow the checklist to execute the test cases.  
-4️⃣ Mark test results as **Pass/Fail** and add comments if needed.  
+4️⃣ Mark test results as **Passed/Failed/Blocker/FalseNegative/FalsePositive/Skipped** and add comments if needed.  
 
 ---
 
