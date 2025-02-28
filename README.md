@@ -25,15 +25,21 @@ Project name: **Kapusta Smart Finance**
   - Error Guessing  
   - Exploratory Testing  
 
-## 📂 File Contents
-- `Kapusta_Smart_Finance_Checklist.xlsx` – A structured checklist covering key functional and non-functional testing scenarios.
+## 📂 Available Formats  
+For convenience, the checklist is available in **three different formats**:  
+
+| Format | Description |
+|--------|-------------|
+| 🟢 **Excel (`.xlsx`)** | Fully formatted spreadsheet with structured checklist |
+| 🔵 **CSV (`.csv`)** | Plain text format compatible with most tools |
+| 🟠 **Markdown (`.md`)** | Readable text format directly viewable on GitHub |
 
 ## 📌 How to Use
-1️⃣ Download the `.xlsx` file from this repository.  
-2️⃣ Open it in Excel, Google Sheets, or another spreadsheet tool.  
+1️⃣ Choose the most convenient format (`.xlsx`, `.csv`, or `.md`).  
+2️⃣ Open the file in Excel, Google Sheets, a text editor, or directly on GitHub.  
 3️⃣ Follow the checklist to execute the test cases.  
 4️⃣ Mark test results as **Passed/Failed/Blocker/FalseNegative/FalsePositive/Skipped** and add comments if needed.  
 
 ---
 
-🚀 This checklist is part of the **Manual QA course at GoIT** and aims to provide a structured approach to testing the Kapusta Smart Finance platform.
+🚀 This checklist is part of the **Manual QA course at GoIT** and provides a structured approach to testing the Kapusta Smart Finance platform.
